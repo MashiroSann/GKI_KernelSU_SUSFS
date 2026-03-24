@@ -15,10 +15,11 @@
 </div>
 
 ## ⚠️ 仓库须知
+①任何情况下你都不应fork此仓库，若要构建自定义内核，请fork此仓库的任意一个上游仓库进行构建
 
-① 本仓库分叉自 [zzh20188/GKI_KernelSU_SUSFS](https://github.com/zzh20188/GKI_KernelSU_SUSFS/) 本人只进行了部分修改与问题修复，请各位使用者优先考虑分叉原始仓库。
+② 本仓库分叉自 [coolzyd9107/GKI_KernelSU_SUSFS](https://github.com/coolzyd9107/GKI_KernelSU_SUSFS/) 本人未对上游仓库进行任何修改，仅对此仓库进行fork并使用github action进行手动内核构建
 
-② 本仓库只提供ReSukiSU的预构建内核，对于其它KernelSU分支，请分叉本仓库或 [zzh20188/GKI_KernelSU_SUSFS](https://github.com/zzh20188/GKI_KernelSU_SUSFS/) 然后自行构建。
+③ 本仓库只提供ReSukiSU的预构建内核，对于其它KernelSU分支，请分叉本仓库或 [zzh20188/GKI_KernelSU_SUSFS](https://github.com/zzh20188/GKI_KernelSU_SUSFS/) 然后自行构建。
 
 ## 💰 特别鸣谢
 
