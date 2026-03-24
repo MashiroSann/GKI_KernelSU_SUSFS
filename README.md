@@ -23,7 +23,7 @@
 
 ## 💰 特别鸣谢
 
-[coolzyd9107](https://github.com/coolzyd9107)：仓库的创建者和所有者，但他是一个大fèiwù，很多东西都不会。
+[coolzyd9107](https://github.com/coolzyd9107)：仓库的创建者和所有者
 
 [zzh20188](https://github.com/zzh20188)：他是本仓库的上游仓库作者。
 
